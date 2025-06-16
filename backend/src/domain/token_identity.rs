@@ -1,3 +1,0 @@
-struct TokenIdentity {
-    symbol: String,
-}
