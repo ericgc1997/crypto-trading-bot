@@ -1,4 +1,4 @@
 pub struct TokenPair {
-    first: String,
-    second: String,
+    pub first: String,
+    pub second: String,
 }

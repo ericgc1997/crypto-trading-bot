@@ -1,2 +1,2 @@
-mod exange_provider_factory;
-mod uniswap_provider;
+pub mod provider_factory;
+pub mod uniswap_provider;
